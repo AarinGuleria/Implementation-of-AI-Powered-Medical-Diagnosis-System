@@ -56,7 +56,7 @@ An AI-powered **medical diagnosis web application** that predicts diseases based
 
 ## 📸 **Screenshots**
 
-![alt text](<Screenshot 2025-03-22 142419.png>) ![alt text](<Screenshot 2025-03-22 142349.png>) ![alt text](<Screenshot 2025-03-22 142107.png>)
+![alt text](<Screenshot 2025-03-22 142419.png>) 
 
 ---
 
