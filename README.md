@@ -1,7 +1,3 @@
-Here's a refined **GitHub README** that is **structured, engaging, and professional**:
-
----
-
 # 🚀 **AI-Powered Medical Diagnosis System**
 
 ## 📌 **Overview**
